@@ -1,5 +1,3 @@
-# Mod_2-assignment-
-Mod_2 assignment
 <!DOCTYPE HTML>
 <html >
 <head>
@@ -16,8 +14,8 @@ Mod_2 assignment
 			@media(min-width:768px) and (max-width:991px){
 			.one,.two,.three{float:left;
 					border:1px solid black;}	
-			.one{width:43%;}
-			.two{width:42%;}
+			.one{width:40%;}
+			.two{width:40%;}
 			.three{width:92%;}
 }
 /******Desktop View*******/
@@ -25,7 +23,7 @@ Mod_2 assignment
 		.one,.two,.three{float:left;
 				border:1px solid black;}	
 		
-		.one,.two,.three{width:28%;}
+		.one,.two,.three{width:26%;}
 		}
 /******mobile View*******/
 		@media(max-width:767px){
